@@ -11,6 +11,7 @@
   inputs.src-nimja-master.ref   = "refs/heads/master";
   inputs.src-nimja-master.owner = "enthus1ast";
   inputs.src-nimja-master.repo  = "nimja";
+  inputs.src-nimja-master.dir   = "";
   inputs.src-nimja-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
