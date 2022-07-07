@@ -43,11 +43,11 @@
     "src-nimja-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1656483047,
-        "narHash": "sha256-IQRiV98J7QOSX+wMbfajiODbV00yP9Fe/iTGWKakgCw=",
+        "lastModified": 1656945737,
+        "narHash": "sha256-IN7guKKrNa7pNmwwGseOgzopkHcGjH1hz1e9zU3IOO0=",
         "owner": "enthus1ast",
         "repo": "nimja",
-        "rev": "620aceecd91a9c34b408755e5a50ce6218cc33a7",
+        "rev": "e7767ffd7474d069e5376a10779e1efcbfc7bfbf",
         "type": "github"
       },
       "original": {
